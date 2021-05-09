@@ -1,5 +1,5 @@
 ---
-title: 'k.world: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
+title: 'k.world: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
 k.world is under construction."
 ---
 
